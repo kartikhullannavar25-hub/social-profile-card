@@ -31,5 +31,5 @@ During this project, I learned how to properly manage element layouts using pare
 
 
 ## Author
-- Frontend Mentor - [@kartikhullannavar25-hub](https://www.frontendmentor.io/profile/kartikhullannavar25-hub)
+- Frontend Mentor - [@kartik-kumar25](https://www.frontendmentor.io/profile/kartik-kumar25)
 
